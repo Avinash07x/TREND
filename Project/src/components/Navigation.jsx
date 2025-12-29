@@ -21,13 +21,13 @@ const Navigation = () => {
               <a href="/" className="text-white hover:text-[#CCFF00] transition-colors">
                 Home
               </a>
-              <a href="/Collections" className="text-white hover:text-[#CCFF00] transition-colors">
+              <a href="/collections" className="text-white hover:text-[#CCFF00] transition-colors">
                 Collections
               </a>
-              <a href="/All-Products" className="text-white hover:text-[#CCFF00] transition-colors">
+              <a href="/all-Products" className="text-white hover:text-[#CCFF00] transition-colors">
                 All Products
               </a>
-              <a href="/Carts" className="text-white hover:text-[#CCFF00] transition-colors">
+              <a href="/carts" className="text-white hover:text-[#CCFF00] transition-colors">
                 My Cart
               </a>
             </div>
